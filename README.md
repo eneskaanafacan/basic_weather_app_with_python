@@ -49,7 +49,7 @@ Açılan arayüzde bir şehir adı girin (ingilizce olmalı.) ve "Göster" buton
 ## Proje Yapısı
 
 - **main.py**: Hava durumu verilerini almak için OpenWeatherMap API’yi kullanan modül. Şehir adını kullanarak hava durumu verilerini döndürür.
-- **ui.py**: Tkinter arayüzü ile kullanıcı etkileşimini ve görsel bilgiyi sağlar. Bu dosya, API'den veri çekme işlemini iş parçacıkları ile yaparak arayüzün donmasını engeller.
+- **ui.py**: Tkinter arayüzü ile kullanıcı etkileşimini ve görsel bilgiyi sağlar.
 
 ## Örnek Çıktı
 
