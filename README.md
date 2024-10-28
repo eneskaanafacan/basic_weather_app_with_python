@@ -4,9 +4,9 @@ Bu uygulama, OpenWeatherMap API’sini kullanarak bir şehrin güncel hava durum
 
 ## Özellikler
 
-- Kullanıcı dostu ve basit bir arayüz
+- Basit bir arayüz
 - Şehir adına göre güncel hava durumu bilgisi (sıcaklık, nem, açıklama)
-- Asenkron veri alma: API çağrıları farklı bir iş parçacığında çalıştırılır, böylece arayüz donmaz ve daha hızlı yanıt verir
+
 
 ## Gereksinimler
 
