@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "6b8130be4231f4aa6dc8e2bd02f8d084"
+API_KEY = "your api key" #add your own api key here
 
 def get_weather(city):
     url = f"http://api.openweathermap.org/geo/1.0/direct?q={city}&limit=1&appid={API_KEY}"
